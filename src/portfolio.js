@@ -189,44 +189,6 @@ const bigProjects = {
   subtitle: "I Learning and Working Some Project",
   projects: [
     {
-      image: require("./assets/images/BookManagement.jpg"),
-      projectName: "Book Mark Management",
-      projectDesc:
-        "This project allows you to edit, delete, and add the book and author",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://chic-kelpie-b199cd.netlify.app/"
-        }
-      ]
-    },
-
-    {
-      image: require("./assets/images/Online shopping.jpg"),
-      projectName: "Online Shopping",
-      projectDesc:
-        "This project enables users to add products to their shopping cart.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://sprightly-capybara-8a3dc1.netlify.app/"
-        }
-      ]
-    },
-    {
-      image: require("./assets/images/mobile.jpg"), // Replace with actual image path
-      projectName: "Online Mobile Shopping",
-      projectDesc:
-        "An innovative e-commerce platform offering a wide range of mobile phones and accessories.",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "https://sage-cassata-cacd56.netlify.app/"
-        }
-      ]
-    },
-
-    {
       image: require("./assets/images/Meezar.jpg"), // Replace with actual image path
       projectName: "Meezar",
       projectDesc:
@@ -246,30 +208,8 @@ const bigProjects = {
       footerLink: []
     },
 
-    {
-      image: require("./assets/images/Miniyoutube.jpg"), // Replace with actual image path
-      projectName: "Mini Youtube",
-      projectDesc:
-        "This website is Mini Youtube website to upload the video and like,share and comment the video",
-      footerLink: [
-        {
-          name: "GitHub Repository",
-          url: "https://github.com/HariHaran-WebPage/Mini-Youtube.git"
-        }
-      ]
-    },
-    {
-      image: require("./assets/images/Tourism .jpg"), // Replace with actual image path
-      projectName: "Tourism Website",
-      projectDesc:
-        "In this website to explore the world with our meezar Travels ",
-      footerLink: [
-        {
-          name: "GitHub Repository",
-          url: "https://github.com/HariHaran-WebPage/MEEZAR-Tourism.git"
-        }
-      ]
-    },
+
+
     {
       image: require("./assets/images/Laptop.jpg"), // Replace with actual image path
       projectName: "Laptop Service",
