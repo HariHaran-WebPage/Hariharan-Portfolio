@@ -261,14 +261,14 @@ const achievementSection = {
       ]
     },
     {
-      title: "AWS Certified Developer",
-      subtitle: "Completed AWS Certified Developer certification.",
-      image: require("./assets/images/AWS.jpg"), // Update with the correct path to your image
-      imageAlt: "AWS Logo",
+      title: "Testing App Jugl",
+      subtitle: "Completed certification in Native app testing in Jugl",
+      image: require("./assets/images/jugl"), // Update with the correct path to your image
+      imageAlt: "Jugl",
       footerLink: [
         {
           name: "Certification",
-          url: "" // Add the URL to your AWS certification
+          url: "" 
         }
       ]
     }
