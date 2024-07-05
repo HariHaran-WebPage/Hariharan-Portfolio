@@ -263,7 +263,7 @@ const achievementSection = {
     {
       title: "Testing App Jugl",
       subtitle: "Completed certification in Native app testing in Jugl",
-      image: require("./assets/images/jugl.jpg"), // Update with the correct path to your image
+      image: require("./assets/images/Jugl.jpg"), // Update with the correct path to your image
       imageAlt: "Jugl",
       footerLink: [
         {
