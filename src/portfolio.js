@@ -153,7 +153,7 @@ const techStack = {
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "70%"
     }
   ],
   displayCodersrank: true // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -186,7 +186,7 @@ const openSource = {
 
 const bigProjects = {
   title: " Projects",
-  subtitle: "I Learning and Working Some Project",
+  subtitle: "Explore some of my recent work below:",
   projects: [
     {
       image: require("./assets/images/Meezar.jpg"), // Replace with actual image path
@@ -344,7 +344,7 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+    "If you'd like to get in touch, feel free to reach out using the details below:",
 
   email_address: "hariharan23kph@gmail.com"
 };
